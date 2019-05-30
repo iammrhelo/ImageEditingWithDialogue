@@ -1,0 +1,1360 @@
+tags|dialogue_act
+contrast###B-attribute|inform
+do###O you###O think###O the###B-refer photo###I-refer is###O too###O bright###O ?###O|inform
+yes###O|affirm
+hue###B-attribute|inform
+yes###O|affirm
+-56###B-value|inform
+ok###O|affirm
+the###B-refer dog###I-refer|inform
+it###O seems###O right###O to###O me###O|affirm
+i###O 'm###O finished###O|inform
+yes###O|affirm
+87###B-value|inform
+yes###O|affirm
+yes###O|affirm
+the###B-refer coffee###I-refer cup###I-refer|inform
+adjust###B-action lightness###B-attribute to###O the###B-refer meter###I-refer|inform
+yes###O|affirm
+adjust###B-action lightness###B-attribute to###B-refer cup###I-refer|inform
+no###O|negate
+the###B-refer trash###I-refer|inform
+add###B-action contrast###B-attribute to###O entire###B-refer picutre###I-refer|inform
+no###O|negate
+add###B-action saturation###B-attribute to###O the###B-refer background###I-refer|inform
+50###B-value|inform
+no###O|negate
+10###B-value|inform
+4###B-value|inform
+the###B-refer cup###I-refer|inform
+no###O|negate
+add###B-action hue###B-attribute to###O the###B-refer meter###I-refer|inform
+5###B-value|inform
+no###O|negate
+add###B-action brightness###B-attribute to###O the###B-refer picture###I-refer|inform
+hot###B-refer dog###I-refer|inform
+20###B-value|inform
+brightness###B-attribute|inform
+hotdogs###B-refer|inform
+no###O|negate
+man###B-refer|inform
+no###O|negate
+yes###O|affirm
+yes###O|affirm
+glasses###B-refer|inform
+lightness###B-attribute|inform
+drink###B-refer|inform
+cup###B-refer|inform
+yes###O|affirm
+man###B-refer|inform
+background###B-refer|inform
+20###B-value|inform
+shirt###B-refer|inform
+hot###B-refer dog###I-refer|inform
+hotdog###B-refer|inform
+ye###O|affirm
+no###O|negate
+can###O you###O detect###B-action the###B-refer microwave###I-refer on###I-refer the###I-refer counter###I-refer|inform
+no###O|negate
+-75###B-value|inform
+can###O you###O change###B-action the###O hue###B-attribute of###O the###B-refer cabinet###I-refer|inform
+the###B-refer other###I-refer microwave###I-refer|inform
+can###O you###O change###B-action the###O brightness###B-attribute of###O the###B-refer picture###I-refer|inform
+yes###O|affirm
+no###O|negate
+no###O|negate
+can###O you###O identify###B-action the###B-refer drawer###I-refer|inform
+the###B-refer second###I-refer microwave###I-refer|inform
+thank###O you###O|affirm
+can###O you###O change###B-action the###O hue###B-attribute of###O the###B-refer microwave###I-refer|inform
+brightness###B-attribute|inform
+yes###O|affirm
+no###O|negate
+can###O you###O tell###B-action me###O all###B-refer items###I-refer in###I-refer the###I-refer picture###I-refer|inform
+hue###B-attribute 50###B-value|inform
+can###O you###O change###B-action the###O hue###B-attribute of###O the###B-refer oven###I-refer|inform
+20###B-value|inform
+bear###B-refer|inform
+no###O|negate
+contrast###B-attribute|inform
+turn###B-action brightness###B-attribute up###O on###O the###B-refer other###I-refer bear###I-refer|inform
+black###B-refer bear###I-refer|inform
+yes###O|affirm
+other###B-refer black###I-refer bear###I-refer|inform
+yes###O|affirm
+change###B-action contrast###B-attribute|inform
+no###O|negate
+whole###B-refer image###I-refer|inform
+bear###B-refer|inform
+other###B-refer object###I-refer|inform
+black###B-refer bear###I-refer|inform
+turn###B-action up###O the###O brightness###B-attribute a###O bit###O|inform
+10###B-value|inform
+no###O|negate
+bear###B-refer|inform
+yes###O|affirm
+20###B-value|inform
+yes###O|affirm
+brightness###B-attribute up###O|inform
+lightness###B-attribute|inform
+the###B-refer tennis###I-refer rackets###I-refer|inform
+contrasst###B-attribute|inform
+this###O is###O a###O photo###O of###O tennis###B-refer rackets###I-refer|inform
+yes###O|affirm
+no###O the###B-refer ball###I-refer is###O to###O the###O left###O|negate
+tennis###B-refer racket###I-refer|inform
+no###O|negate
+lightness###B-attribute|inform
+-20###B-value|inform
+25###B-value|inform
+the###B-refer tennis###I-refer ball###I-refer|inform
+no###O|negate
+all###B-refer of###I-refer the###I-refer tennis###I-refer rackets###I-refer|inform
+contrast###B-attribute|inform
+brightness###B-attribute 25###B-value|inform
+good###O job###O !###O|affirm
+contrast###B-attribute 25###B-value|inform
+hi###O chatbot###O .###O can###O you###O increase###B-action the###O contrast###B-attribute ?###O|inform
+ecellent###O|affirm
+stop###B-refer sign###I-refer|inform
+hue###B-attribute 10###B-value|inform
+yes###O|affirm
+yes###O|affirm
+yes###O|affirm
+yes###O|affirm
+select###B-action the###B-refer trees###I-refer|inform
+the###B-refer street###I-refer|inform
+hi###O i###O would###O like###O to###O edit###B-action the###B-refer blue###I-refer objects###I-refer|inform
+brightness###B-attribute|inform
+i###O want###O to###O adjust###B-action the###O hue###B-attribute as###O well###O|inform
+no###O|negate
+50###B-value|inform
+yes###O|affirm
+yes###O that###O is###O correct###O|affirm
+75###B-value|inform
+yes###O|affirm
+yes###O|affirm
+yes###O|affirm
+80###B-value|inform
+a###B-refer man###I-refer|inform
+50###B-value|inform
+the###B-refer man###I-refer|inform
+lightness###B-attribute|inform
+the###B-refer man###I-refer|inform
+the###B-refer man###I-refer|inform
+yes###O|affirm
+brightness###B-attribute|inform
+contrast###B-attribute|inform
+cycle###B-refer colour###B-attribute|inform
+30###B-value|inform
+70###B-value|inform
+yes###O|affirm
+helmet###B-refer colour###B-attribute|inform
+no###O|negate
+yes###O|affirm
+tyre###B-refer colour###B-attribute|inform
+chair###B-refer colour###B-attribute|inform
+brightness###B-attribute|inform
+yes###O|affirm
+handle###B-refer colour###O|inform
+brightness###B-attribute 40###B-value|inform
+handle###B-refer|inform
+cycle###B-refer|inform
+helmet###B-refer|inform
+no###O|negate
+55###B-value|inform
+table###B-refer|inform
+the###B-refer black###I-refer hand###I-refer bag###I-refer|inform
+the###B-refer plastic###I-refer object###I-refer|inform
+no###O|negate
+the###B-refer tape###I-refer|inform
+77###B-value|inform
+make###O an###O adjustment###B-action to###O the###B-refer pair###I-refer of###I-refer shoes###I-refer|inform
+no###O|negate
+no###O|negate
+no###O|negate
+no###O|negate
+the###B-refer object###I-refer on###I-refer the###I-refer floor###I-refer|inform
+do###O you###O see###O the###B-refer pink###I-refer purse###I-refer ?###O|inform
+the###B-refer piece###I-refer of###I-refer paper###I-refer|inform
+no###O|negate
+saturation###B-attribute|inform
+the###B-refer box###I-refer|inform
+yes###O|affirm
+no###O|negate
+adjust###B-action the###B-refer roll###I-refer of###I-refer tape###I-refer on###I-refer the###I-refer floor###I-refer|inform
+no###O|negate
+yes###O|affirm
+no###O|negate
+adjust###B-action the###B-refer purse###I-refer|inform
+advair###B-refer|inform
+do###O you###O see###O the###B-refer black###I-refer purse###I-refer ?###O|inform
+do###O you###O see###O the###B-refer clipboard###I-refer ?###O|inform
+no###O|negate
+55###B-value|inform
+shoe###B-refer|inform
+the###B-refer bottle###I-refer|inform
+brightness###B-attribute|inform
+no###O|negate
+that###O is###O correct###O|affirm
+50###B-value|inform
+yes###O|affirm
+yes###O|affirm
+show###B-action me###O the###B-refer cell###I-refer phone###I-refer|inform
+yes###O|affirm
+hue###B-attribute|inform
+a###B-refer woman###I-refer|inform
+the###B-refer woman###I-refer|inform
+brightness###B-attribute|inform
+no###O|negate
+what###O is###O in###O the###O photo###O ?###O|inform
+-24###B-value|inform
+yes###O|affirm
+yes###O|affirm
+miss###B-action the###O her###B-refer helmet###I-refer|inform
+saturation###B-attribute|inform
+no###O|negate
+man###B-refer|inform
+yes###O|affirm
+man###B-refer glows###O|inform
+remove###B-action the###B-refer men###I-refer|inform
+60###O to###O 100###B-value|inform
+no###O|negate
+skatboard###B-refer|inform
+50###O to###O 100###B-value|inform
+his###B-refer boo###I-refer|inform
+whole###O of###O the###B-refer skatboard###I-refer|inform
+hue###B-attribute|inform
+no###O|negate
+no###O|negate
+skateboard###B-refer|inform
+crap###O the###B-refer skatboard###I-refer|inform
+yes###O|affirm
+crap###O|inform
+crap###O the###B-refer helmet###I-refer|inform
+ues###O|affirm
+no###O|negate
+increase###B-action brightness###B-attribute|inform
+80###B-value|inform
+contrast###B-attribute|inform
+yes###O|affirm
+bag###B-refer|inform
+the###B-refer bag###I-refer on###I-refer the###I-refer floor###I-refer|inform
+the###B-refer luggage###I-refer|inform
+background###B-refer|inform
+the###B-refer luggage###I-refer|inform
+yes###O|affirm
+brighten###B-action image###B-refer|inform
+no###O|negate
+80###B-value|inform
+floor###B-refer|inform
+increase###B-action lightness###B-attribute|inform
+luggage###B-refer|inform
+wall###B-refer|inform
+no###O|negate
+the###B-refer desk###I-refer|inform
+no###O|negate
+the###B-refer computer###I-refer|inform
+yes###O|affirm
+no###O|negate
+the###B-refer keyboard###I-refer|inform
+no###O|negate
+no###O|negate
+the###B-refer screen###I-refer|inform
+the###B-refer animal###I-refer|inform
+lighten###B-action a###B-refer desktop###I-refer|inform
+-70###B-value|inform
+the###B-refer wall###I-refer|inform
+no###O|negate
+the###B-refer projector###I-refer|inform
+the###B-refer cat###I-refer|inform
+the###B-refer cup###I-refer|inform
+brightness###B-attribute|inform
+the###B-refer speaker###I-refer|inform
+contrast###B-attribute|inform
+a###B-refer cat###I-refer|inform
+the###B-refer book###I-refer|inform
+no###O|negate
+yes###O|affirm
+no###O|negate
+-10###B-value|inform
+no###O|negate
+adjust###B-action the###O hue###B-attribute of###O the###B-refer man###I-refer|inform
+contrast###B-attribute|inform
+75###B-value|inform
+lighten###B-action the###B-refer building###I-refer|inform
+yes###O|affirm
+50###B-value|inform
+no###O|negate
+no###O|negate
+brighten###B-action the###B-refer man###I-refer|inform
+can###O you###O lighten###B-action the###O hue###B-attribute|inform
+yes###O|affirm
+100###B-value|inform
+brightness###B-attribute|inform
+purse###B-refer|inform
+the###B-refer window###I-refer|inform
+no###O|negate
+the###B-refer picture###I-refer on###I-refer the###I-refer right###I-refer left###I-refer wall###I-refer|inform
+-100###B-value|inform
+saturation###B-attribute|inform
+no###O|negate
+the###B-refer bed###I-refer|inform
+flowers###B-refer|inform
+the###B-refer bed###I-refer|inform
+yes###O|affirm
+yes###O|affirm
+no###O|negate
+the###B-refer picture###I-refer|inform
+orange###B-refer|inform
+the###B-refer orange###I-refer|inform
+lime###B-refer|inform
+yes###O|affirm
+hue###B-attribute|inform
+the###B-refer orange###I-refer|inform
+no###O|negate
+yes###O|affirm
+no###O|negate
+bottom###B-refer apple###I-refer|inform
+the###B-refer tablecloth###I-refer|inform
+no###O|negate
+lime###B-refer|inform
+the###B-refer lime###I-refer|inform
+hue###B-attribute|inform
+lime###B-refer|inform
++40###B-value|inform
+no###O|negate
+the###B-refer lime###I-refer on###I-refer the###I-refer left###I-refer|inform
+-30###B-value|inform
+no###O|negate
+make###B-action the###B-refer picture###I-refer a###O bit###O darker###B-attribute .###O|inform
+no###O|negate
+no###O|negate
+select###B-action the###B-refer computer###I-refer|inform
+no###O|negate
+no###O|negate
+find###B-action the###B-refer black###I-refer cat###I-refer|inform
+-25###B-value|inform
+adjust###B-action the###O lightness###B-attribute|inform
+yes###O|affirm
+75###B-value|inform
+no###O|negate
+adjust###B-action white###B-refer to###O orange###O|inform
+select###B-action the###B-refer mouse###I-refer|inform
+yes###O|affirm
+yes###O|affirm
+select###B-action laptop###B-refer computer###I-refer|inform
+select###B-action the###B-refer white###I-refer cat###I-refer again###O|inform
+yes###O|affirm
+yes###O|affirm
+make###B-action the###B-refer white###I-refer cat###I-refer all###O orange###O|inform
+adjust###B-action brightness###B-attribute|inform
+the###B-refer brick###I-refer wall###I-refer 75###B-value percent###O saturation###B-attribute|inform
+none###O|negate
+no###O|negate
+contrast###B-attribute 50###B-value percent###O|inform
+curtains###B-refer 100###B-value percent###O saturation###B-attribute|inform
+yes###O|affirm
+the###B-refer brick###I-refer wall###I-refer|inform
+finished###O|inform
+lightness###B-attribute 25###B-value percent###O|inform
+yes###O ,###O i###O adjusted###B-action the###B-refer sliders###I-refer .###O|affirm
+lampshades###B-refer 80###B-value percent###O lightness###B-attribute|inform
+armchair###B-refer 100###B-value percent###O lighness###B-attribute|inform
+all###O|inform
+no###O|negate
+brightness###B-attribute|inform
+contrast###B-attribute|inform
+table###B-refer|inform
+lampshades###B-refer|inform
+yes###O|affirm
+end###B-refer|inform
+the###B-refer entire###I-refer picture###I-refer image###I-refer as###I-refer a###I-refer whole###I-refer|inform
+no###O|negate
+good###O|affirm
+brightness###B-attribute 35###B-value percent###O|inform
+okay###O ,###O whatever###O .###O you###O do###O n't###O understand###O|negate
+yes###O|affirm
+none###O|inform
+oka###O|inform
+no###O|negate
+no###O ,###O the###B-refer entire###I-refer image###I-refer including###I-refer everything###I-refer in###I-refer the###I-refer image###I-refer .###O|negate
+can###O you###O implement###B-action the###O adjustments###O i###O made###O ?###O|inform
+no###O ,###O 95###B-value|negate
+yes###O|affirm
+no###O|negate
+-80###B-value|inform
+i###O need###O to###O change###B-action the###O brightness###B-attribute .###O|inform
+woman###B-refer|inform
+the###B-refer person###I-refer|inform
+saturation###B-attribute|inform
+the###B-refer cat###I-refer|inform
+no###O|negate
+thanks###O ,###O that###O 's###O it###O|affirm
+yes###O|affirm
+the###B-refer refrigerator###I-refer brightness###B-attribute .###O|inform
+the###B-refer socks###I-refer|inform
+contrast###B-attribute|inform
+food###B-refer|inform
+yes###O|affirm
+the###B-refer food###I-refer|inform
+50###B-value|inform
+50###B-value|inform
+brightness###B-attribute|inform
+hue###B-attribute|inform
+yes###O|affirm
+make###B-action the###B-refer image###I-refer brighter###O|inform
+50###B-value|inform
+the###B-refer man###I-refer|inform
+no###O|negate
+the###B-refer baby###I-refer|inform
+brightness###B-attribute|inform
+40###B-value|inform
+the###B-refer computer###I-refer screen###I-refer|inform
+the###B-refer mouse###I-refer|inform
+no###O|negate
+yes###O|affirm
+the###B-refer laptop###I-refer|inform
+no###O|negate
+no###O|negate
+they###B-refer keyboard###I-refer|inform
+i###O would###O like###O to###O change###B-action the###B-refer baby###I-refer|inform
+no###O|negate
+yes###O|affirm
+the###B-refer phone###I-refer|inform
+no###O|negate
+the###B-refer phone###I-refer|inform
+no###O|negate
+no###O|negate
+no###O|negate
+hue###B-attribute|inform
+they###B-refer keyboard###I-refer|inform
+the###B-refer lamp###I-refer|inform
+the###B-refer baby###I-refer|inform
+the###B-refer baby###I-refer|inform
+no###O|negate
+the###B-refer computer###I-refer screen###I-refer|inform
+the###B-refer blue###I-refer|inform
+cable###B-refer|inform
+no###O|negate
+no###O|negate
+no###O|negate
+select###B-action keypad###B-refer|inform
+select###B-action hotspot###B-refer|inform
+yes###O|affirm
+increase###B-action brightness###B-attribute by###O 10###B-value|inform
+yes###O|affirm
+select###B-action hotspot###B-refer|inform
+no###O|negate
+no###O|negate
+select###B-action trackball###B-refer|inform
+no###O|negate
+no###O|negate
+select###B-action remote###B-refer control###I-refer|inform
+select###B-action orange###B-refer hotspot###I-refer|inform
+lower###B-action brightness###B-attribute by###O 30###B-value|inform
+no###O|negate
+the###B-refer kitchen###I-refer|inform
+contrast###B-attribute|inform
+yes###O|affirm
+darken###B-action sofa###B-refer|inform
+no###O|negate
+-15###B-value|inform
+the###B-refer sofa###I-refer|inform
+brightness###B-attribute|inform
+yes###O|affirm
+no###O|negate
+yes###O|affirm
+no###O|negate
+brightness###B-attribute|inform
+the###B-refer wheelchair###I-refer|inform
+the###B-refer dog###I-refer|inform
+done###O|inform
+the###B-refer woman###I-refer|inform
+25###B-value|inform
+lightness###B-attribute|inform
+the###B-refer dog###I-refer|inform
+the###B-refer wheelchair###I-refer|inform
+the###B-refer dogs###I-refer|inform
+-30###B-value|inform
+yes###O|affirm
+no###O|negate
+no###O|negate
+the###B-refer dogs###I-refer|inform
+yes###O|affirm
+the###B-refer dogs###I-refer|inform
+no###O|negate
+darken###B-action table###B-refer|inform
+yes###O|affirm
+yes###O|affirm
+no###O|negate
+-20###B-value|inform
+no###O|negate
+the###B-refer cat###I-refer|inform
+yes###O|affirm
+brightness###B-attribute|inform
+make###B-action the###B-refer book###I-refer case###I-refer darker###O|inform
+no###O|negate
+the###B-refer eyes###I-refer on###I-refer the###I-refer cat###I-refer|inform
+50###B-value|inform
+yes###O|affirm
+no###O|negate
+the###B-refer cat###I-refer -50###B-value|inform
+tone###B-action down###I-action the###O brightness###B-attribute of###O the###B-refer cat###I-refer 's###I-refer eyes###I-refer|inform
+yes###O|affirm
+make###B-action the###B-refer statue###I-refer lighter###O|inform
+no###O|negate
+no###O|negate
+25###B-value ,###O please###O|inform
+adjust###B-action the###O hue###B-attribute|inform
+undo###B-action the###O edit###O .###O|inform
+50###B-value|inform
+yes###O|affirm
+target###B-action the###B-refer motorcycle###I-refer|inform
+can###O you###O undo###B-action that###O last###O edit###O ?###O|inform
+yes###O|affirm
+adjust###B-action the###B-refer motorcycle###I-refer|inform
+yes###O|affirm
+brightness###B-attribute|inform
+nope###O|negate
+make###B-action the###B-refer man###I-refer on###I-refer the###I-refer motorcycle###I-refer brighter###O .###O|inform
+make###B-action the###B-refer picture###I-refer brighter###O|inform
+make###B-action the###B-refer cow###I-refer brighter###O|inform
+select###B-action a###B-refer cow###I-refer|inform
+no###O|negate
+house###B-refer|inform
+10###B-value|inform
+yes###O|affirm
+no###O|negate
+yes###O|affirm
+brightness###B-attribute|inform
+no###O|negate
+raise###B-action the###O saturation###B-attribute of###O the###B-refer cow###I-refer|inform
+15###B-value|inform
+select###B-action the###B-refer house###I-refer|inform
+cow###B-refer|inform
+make###B-action the###B-refer brown###I-refer cow###I-refer brighter###O|inform
+school###B-refer bus###I-refer|inform
+yes###O|affirm
+find###B-action the###B-refer school###I-refer buses###I-refer|inform
+no###O|negate
+find###B-action license###B-refer plate###I-refer|inform
+incrase###B-action the###O brightness###B-attribute to###O 10###B-value|inform
+find###B-action trees###B-refer|inform
+yes###O|affirm
+increase###B-action school###B-refer bus###I-refer saturation###B-attribute to###O 10###B-value|inform
+no###O|negate
+find###B-action window###B-refer|inform
+increase###B-action the###O brightness###B-attribute of###O the###B-refer school###I-refer buses###I-refer|inform
+yes###O|affirm
+increase###B-action saturation###B-attribute to###O 10###B-value|inform
+no###O|negate
+no###O|negate
+backgroundd###B-refer|inform
+brightness###B-attribute|inform
+background###B-refer|inform
+crop###B-action animal###B-refer|inform
+crop###B-action grass###B-refer|inform
+crop###B-action cage###B-refer|inform
+no###O|negate
+0###B-value|inform
+no###O|negate
+crop###B-action animal###B-refer|inform
+animal###B-refer|inform
+grass###B-refer|inform
+yes###O|affirm
+sheep###B-refer|inform
+brightness###B-attribute|inform
+50###B-value|inform
+yes###O|affirm
+truck###B-refer|inform
+-70###B-value|inform
+license###B-refer plate###I-refer|inform
+tree###B-refer|inform
+the###B-refer vehicle###I-refer|inform
+yes###O|affirm
+contrast###B-attribute|inform
+headlight###B-refer|inform
+-10###B-value|inform
+saturation###B-attribute|inform
+van###B-refer|inform
+yes###O|affirm
+no###O|negate
+yes###O|affirm
+adjust###B-action the###B-refer sky###I-refer|inform
+the###B-refer air###I-refer balloons###I-refer|inform
+no###O|negate
+-11###B-value|inform
+brightness###B-attribute -11###B-value|inform
+the###B-refer sky###I-refer|inform
+yes###O|affirm
+no###O|negate
+the###B-refer mountain###I-refer|inform
+hue###B-attribute|inform
+can###O you###O make###B-action the###O brightness###B-attribute higher###O ?###O|inform
+air###B-refer balloon###I-refer|inform
+yes###O|affirm
+yes###O|affirm
+no###O|negate
+man###B-refer|inform
+no###O|negate
+yes###O|affirm
+hand###B-refer|inform
+tie###B-refer|inform
+man###B-refer|inform
+child###B-refer|inform
+10###B-value|inform
+hue###B-attribute|inform
+yes###O|affirm
+no###O|negate
+hue###B-attribute|inform
+woman###B-refer|inform
+-10###B-value|inform
+tie###B-refer|inform
+hair###B-refer|inform
+kid###B-refer|inform
+man###B-refer|inform
+pants###B-refer|inform
+tie###B-refer|inform
+yes###O|affirm
+glasses###B-refer|inform
+0###B-value|inform
+house###B-refer|inform
+hue###B-attribute|inform
+bill###B-refer clinton###I-refer|inform
+remove###B-action the###O darkness###B-attribute from###O the###B-refer corners###I-refer|inform
+brighten###B-action the###O contrast###B-attribute|inform
+brighten###B-action the###B-refer other###I-refer zebra###I-refer|inform
+yes###O|affirm
+no###O|negate
+brightness###B-attribute the###B-refer picture###I-refer|inform
+no###O|negate
+no###O|negate
+50###B-value|inform
+yes###O|affirm
+brighten###B-action the###B-refer zebras###I-refer|inform
+50###B-value|inform
+-25###B-value|inform
+brightness###B-attribute|inform
+darken###B-action the###B-refer buses###I-refer|inform
+select###B-action the###B-refer other###I-refer bus###I-refer|inform
+the###B-refer water###I-refer|inform
+grass###B-refer|inform
+no###O|negate
+yes###O|affirm
+-20###B-value|inform
+select###B-action the###B-refer building###I-refer|inform
+brightness###B-attribute|inform
+yes###O|affirm
+select###B-action the###B-refer third###I-refer bus###I-refer|inform
+-75###B-value|inform
+0###B-value|inform
+i###O can###O adjust###B-action brightness###B-attribute|inform
+yes###O|affirm
+yes###O|affirm
+yes###O|affirm
+i###O can###O adjust###B-action the###B-refer men###I-refer|inform
+75###B-value|inform
+yes###O|affirm
+i###O can###O adjust###B-action lightness###B-attribute|inform
+yes###O|affirm
+yes###O|affirm
+the###B-refer women###I-refer|inform
+what###O about###O survey###O|inform
+yes###O|affirm
+yes###O i###O can###O adjust###B-action|affirm
+0###B-value|inform
+yes###O|affirm
+yes###O|affirm
+yes###O|affirm
+yes###O i###O can###O adjust###B-action|affirm
+i###O can###O adjust###B-action contrast###B-attribute|inform
+i###O can###O adjust###B-action brightness###B-attribute|inform
+yes###O|affirm
+the###B-refer man###I-refer|inform
+yes###O|affirm
+the###B-refer man###I-refer|inform
+yes###O|affirm
+hue###B-attribute 20###B-value|inform
+a###B-refer man###I-refer in###I-refer a###I-refer hoodie###I-refer eating###I-refer while###I-refer holding###I-refer a###I-refer cellphone###I-refer|inform
+10###B-value|inform
+hue###B-attribute -20###B-value|inform
+yes###O|affirm
+the###B-refer man###I-refer hue###B-attribute 15###B-value|inform
+yes###O|affirm
+saturation###B-attribute 10###B-value|inform
+5###B-value|inform
+hue###B-attribute 15###B-value|inform
+yes###O|affirm
+brightness###B-attribute|inform
+lightness###B-attribute 5###B-value|inform
+the###B-refer man###I-refer|inform
+the###B-refer white###I-refer bear###I-refer|inform
+no###O|negate
+bears###B-refer by###I-refer wall###I-refer|inform
+75###B-value|inform
+no###O|negate
+yes###O|affirm
+adjust###B-action lightness###B-attribute|inform
+no###O|negate
+the###B-refer teddy###I-refer bears###I-refer|inform
+yes###O|affirm
+the###B-refer teddy###I-refer bear###I-refer|inform
+the###B-refer wall###I-refer|inform
+80###B-value|inform
+the###B-refer wall###I-refer bears###I-refer|inform
+adjust###B-action contrast###B-attribute down###O|inform
+make###B-action the###B-refer peaches###I-refer lighter###O|inform
+no###O|negate
+increase###B-action brightness###B-attribute by###O 4###B-value|inform
+select###B-action the###B-refer bowl###I-refer|inform
+saturation###B-attribute|inform
+yes###O|affirm
+select###B-action entire###B-refer image###I-refer|inform
+40###B-value|inform
+-70###B-value|inform
+the###B-refer peach###I-refer|inform
+yes###O|affirm
+yes###O|affirm
+contrast###B-attribute|inform
+50###B-value|inform
+no###O|negate
+yes###O|affirm
+thats###O all###O .###O thank###O you###O .###O|affirm
+40###B-value|inform
+brightness###B-attribute|inform
+no###O|negate
+yes###O|affirm
+house###B-refer or###I-refer barn###I-refer|inform
+make###B-action the###B-refer barn###I-refer darker###O|inform
+adjust###B-action saturation###B-attribute of###O bigger###B-refer cow###I-refer|inform
+hi###O make###B-action the###B-refer cows###I-refer brighter###O|inform
+pizza###B-refer|inform
+pepperoni###B-refer|inform
+okay###O|affirm
+70###B-value|inform
+50###B-value|inform
+hi###O there###O|inform
+the###B-refer pizza###I-refer on###I-refer the###I-refer plate###I-refer|inform
+contrast###B-attribute|inform
+yes###O|affirm
+yes###O|affirm
+crust###B-refer|inform
+brightness###B-attribute|inform
+okay###O|affirm
+no###O|negate
+turn###B-action lightness###B-attribute to###O 10###B-value %###O on###O the###B-refer baseball###I-refer|inform
+no###O|negate
+the###B-refer baseball###I-refer|inform
+yes###O|affirm
+the###B-refer baseball###I-refer mitt###I-refer|inform
+turn###B-action brightness###B-attribute to###O 90###B-value %###O|inform
+yes###O|affirm
+turn###B-action hue###B-attribute to###O 25###B-value %###O on###O the###B-refer glove###I-refer|inform
+the###B-refer glove###I-refer|inform
+the###B-refer mitt###I-refer|inform
+no###O|negate
+no###O|negate
+contrast###B-attribute|inform
+the###B-refer banana###I-refer|inform
+no###O ,###O it###O is###O yellow###O|negate
+no###O|negate
+yes###O|affirm
+banana###B-refer|inform
+the###B-refer banana###I-refer|inform
+yes###O|affirm
+70###B-value|inform
+yes###O|affirm
+the###B-refer banana###I-refer|inform
+edit###B-action banana###B-refer|inform
+i###O would###O like###O to###O brighten###B-action the###B-refer plate###I-refer|inform
+brightness###B-attribute|inform
+banana###B-refer|inform
+-30###B-value|inform
+the###B-refer plate###I-refer|inform
+no###O|negate
+brightness###B-attribute|inform
+i###O would###O like###O to###O edit###B-action the###B-refer image###I-refer|inform
+45###B-value|inform
+tree###B-refer|inform
+giraffe###B-refer|inform
+20###B-value|inform
+35###B-value|inform
+yes###O|affirm
+what###O animal###B-refer in###O the###O image###O|inform
+animal###B-refer|inform
+contrast###B-attribute|inform
+yes###O|affirm
+brighter###O|inform
+brighter###O|inform
+tree###B-refer in###O the###O image###O|inform
+brightness###B-attribute|inform
+animal###B-refer|inform
+edit###B-action the###B-refer man###I-refer on###I-refer the###I-refer bottom###I-refer|inform
+people###B-refer on###I-refer a###I-refer beach###I-refer|inform
+-25###B-value|inform
+brightness###B-attribute|inform
+yes###O|affirm
+the###B-refer top###I-refer image###I-refer|inform
+no###O|negate
+top###B-refer imange###I-refer man###I-refer wearing###I-refer white###I-refer|inform
+no###O the###B-refer brown###I-refer backgrown###I-refer|negate
+edit###B-action green###B-refer man###I-refer|inform
+no###O|negate
+yes###O|affirm
+edit###B-action brown###B-refer image###I-refer|inform
+a###B-refer man###I-refer|inform
+edit###B-action surfboard###B-refer|inform
+saturation###B-attribute|inform
+no###O|negate
+girl###B-refer|inform
+25###B-value|inform
+woman###B-refer|inform
+surfboard###B-refer|inform
+no###O|negate
+edit###B-action bottom###B-refer image###I-refer|inform
+no###O|negate
+make###B-action the###B-refer spoon###I-refer less###O blurry###O|inform
+can###O you###O make###B-action the###B-refer picture###I-refer less###O blurry###O ?###O|inform
+yes###O|affirm
+65###B-value|inform
+65###B-value|inform
+yes###O|affirm
+yes###O|affirm
+no###O|negate
+yes###O|affirm
+contrast###B-attribute|inform
+saturation###B-attribute|inform
+the###B-refer boy###I-refer|inform
+chair###B-refer|inform
+hue###B-attribute|inform
+yes###O|affirm
+no###O|negate
+the###B-refer tv###I-refer|inform
+rug###B-refer|inform
+no###O|negate
+10###B-value|inform
+the###B-refer rug###I-refer|inform
+coffee###B-refer mug###I-refer|inform
+no###O|negate
+-50###B-value|inform
+no###O|negate
+the###B-refer table###I-refer|inform
+yes###O|affirm
+no###O|negate
+the###B-refer pillow###I-refer|inform
+pillow###B-refer|inform
+bowl###B-refer|inform
+brightness###B-attribute|inform
+yes###O|affirm
+no###O|negate
+yes###O|affirm
+60###B-value|inform
+hello###O|inform
+change###B-action the###O saturation###B-attribute of###O the###B-refer man###I-refer|inform
+change###B-action the###O lightness###B-attribute of###O the###B-refer wine###I-refer glass###I-refer|inform
+20###B-value|inform
+yes###O|affirm
+no###O|negate
+change###B-action the###O contrast###B-attribute of###O the###B-refer wine###I-refer glass###I-refer|inform
+adjust###B-action the###O lightness###B-attribute of###O the###B-refer wineglass###I-refer|inform
+yes###O|affirm
+adjust###B-action the###O brightness###B-attribute of###O the###B-refer man###I-refer|inform
+30###B-value|inform
+50###B-value|inform
+adjust###B-action the###O brightness###B-attribute of###O the###B-refer plate###I-refer|inform
+yes###O|affirm
+edit###B-action the###B-refer black###I-refer bag###I-refer .###O|inform
+no###O|negate
+30###B-value|inform
+edit###B-action the###B-refer black###I-refer luggage=###I-refer .###O|inform
+edit###B-action the###B-refer wall###I-refer|inform
+yes###O|affirm
+contrast###B-attribute|inform
+great###O .###O|affirm
+edit###B-action the###B-refer suitcases###I-refer .###O|inform
+no###O|negate
+hi###O ,###O can###O we###O edit###B-action this###B-refer photo###I-refer ?###O|inform
+-50###B-value|inform
+adjust###B-action the###O contrast###B-attribute down###O .###O|inform
+edit###B-action the###B-refer suitcase###I-refer|inform
+can###O we###O edit###B-action the###B-refer black###I-refer luggage###I-refer .###O|inform
+ok###O ,###O edit###B-action suitcases###B-refer .###O|inform
+no###O|negate
+bottle###B-refer|inform
+saturation###B-attribute|inform
+25###B-value|inform
+great###O|affirm
+yes###O|affirm
+white###B-refer vase###I-refer|inform
+great###O job###O .###O|affirm
+i###O need###O to###O edit###B-action this###B-refer photo###I-refer|inform
+-5###B-value|inform
+no###O|negate
+background###B-refer|inform
+the###B-refer vase###I-refer|inform
+yes###O|affirm
+vase###B-refer|inform
+lightness###B-attribute|inform
+man###B-refer|inform
+35###B-value|inform
+no###O|negate
+i###O want###O to###O brighten###B-action the###B-refer motorcycle###I-refer .###O|inform
+-25###B-value|inform
+hue###B-attribute|inform
+yes###O|affirm
+yes###O|affirm
+brightness###B-attribute|inform
+man###B-refer|inform
+brightness###B-attribute|inform
+can###O you###O spot###B-action the###B-refer black###I-refer fire###I-refer hydrant###I-refer in###O the###O picture###O ?###O|inform
+hue###B-attribute 50###B-value|inform
+let###O 's###O brighten###B-action it###B-refer up###O a###O little###O|inform
+the###B-refer yellow###I-refer hydrant###I-refer|inform
+okay###O .###O now###O how###O about###O that###O yellow###B-refer fire###I-refer hydrant###I-refer ?###O|affirm
+yes###O|affirm
+yes###O|affirm
+2###B-value|inform
+yes###O|affirm
+fire###B-refer|inform
+image###O|inform
+make###B-action the###B-refer woman###I-refer 's###O brightness###B-attribute -10###B-value|inform
+can###O you###O change###B-action something###B-refer in###I-refer the###I-refer entire###I-refer image###I-refer ?###O|inform
+make###B-action the###O contrast###B-attribute 70###B-value|inform
+man###B-refer|inform
+yes###O|affirm
+woman###B-refer|inform
+i###O want###O to###O edit###B-action the###B-refer woman###I-refer .###O|inform
+yes###O|affirm
+make###B-action the###O brightness###B-attribute -10###B-value|inform
+fire###B-refer|inform
+yes###O|affirm
+saturation###B-attribute 80###B-value|inform
+increas###B-action saturation###B-attribute|inform
+yes###O|affirm
+no###O|negate
+contrast###B-attribute|inform
+fireplace###B-refer|inform
+yes###O|affirm
+can###O you###O decrease###B-action the###O brightness###B-attribute of###O the###B-refer woman###I-refer on###I-refer the###I-refer left###I-refer 's###I-refer hands###I-refer|inform
+no###O|negate
+no###O just###O her###B-refer hands###I-refer|negate
+yes###O|affirm
+yes###O|affirm
+the###B-refer whole###I-refer picture###I-refer|inform
+can###O you###O decrease###B-action the###O saturation###B-attribute of###O the###B-refer pink###I-refer umbrella###I-refer to###O -50###B-value|inform
+can###O you###O edit###B-action the###B-refer woman###I-refer on###I-refer the###I-refer right###I-refer to###O also###O have###O a###O brightness###B-attribute of###O 20###B-value|inform
+can###O you###O increase###B-action the###O brightness###B-attribute to###O 20###B-value ?###O|inform
+no###O the###B-refer hands###I-refer holding###I-refer the###I-refer umbrella###I-refer|negate
+motorcycle###B-refer|inform
+-2###B-value|inform
+saturation###B-attribute|inform
+yes###O|affirm
+contrast###B-attribute|inform
+yes###O|affirm
+yes###O|affirm
+motorcycle###B-refer|inform
+brightness###B-attribute|inform
+lightness###B-attribute|inform
+-2###B-value|inform
+no###O|negate
+motorcycle###B-refer|inform
+these###O are###O 3###B-refer motorcycles###I-refer|inform
+-2###B-value|inform
+-2###B-value|inform
+-2###B-value|inform
+truck###B-refer|inform
+yes###O|affirm
+no###O|negate
+motorcycle###B-refer|inform
+motorcycle###B-refer|inform
+yes###O|affirm
+car###B-refer|inform
+contrast###B-attribute|inform
+motorcycle###B-refer|inform
+yes###O|affirm
+60###B-value|inform
+hue###B-attribute|inform
+yes###O|affirm
+80###B-value|inform
+the###B-refer man###I-refer|inform
+brightness###B-attribute 70###B-value|inform
+his###B-refer eyebrows###I-refer|inform
+contrast###B-attribute|inform
+his###B-refer eyebrows###I-refer|inform
+yes###O|affirm
+the###B-refer red###I-refer bottle###I-refer|inform
+no###O|negate
+yes###O|affirm
+sausage###B-refer|inform
+yes###O|affirm
+lightness###B-attribute to###O 40###B-value|inform
+set###B-action the###O saturation###B-attribute to###O 30###B-value|inform
+the###B-refer bottle###I-refer with###I-refer the###I-refer green###I-refer cap###I-refer|inform
+the###B-refer ketchup###I-refer|inform
+mayonnaise###B-refer|inform
+yes###O|affirm
+whole###B-refer|inform
+50###B-value|inform
+nice###O|affirm
+brightness###B-attribute|inform
+contrust###B-attribute|inform
+very###O nice###O|affirm
+outlook###B-refer|inform
+nature###B-refer pictures###I-refer|inform
+whole###B-refer objects###I-refer|inform
+attractive###O colour###B-attribute|inform
+contrast###B-attribute|inform
+fastfood###B-refer|inform
+yes###O correct###O|affirm
+hue###B-attribute|inform
+object###B-refer whole###I-refer|inform
+yes###O|affirm
+brightness###B-attribute|inform
+correct###O|affirm
+yes###O|affirm
+80###B-value|inform
+outlook###B-refer|inform
+brightness###B-attribute|inform
+outlook###B-refer|inform
+20###B-value|inform
+no###O|negate
+correct###O|affirm
+yes###O current###B-refer region###I-refer image###I-refer|affirm
+yes###O|affirm
+side###B-refer look###I-refer|inform
+yes###O|affirm
+side###B-refer|inform
+lightness###B-attribute|inform
+bye###O|inform
+yes###O|affirm
+it###O 's###O done###O for###O now###O .###O thanks###O .###O|affirm
+yes###O|affirm
+thank###O you###O !###O|affirm
+no###O ,###O the###O previous###O one###O !###O|negate
+no###O|negate
+hi###O ,###O what###O is###O current###O brightness###B-attribute level###O of###O the###B-refer image###I-refer ?###O|inform
+yes###O ,###O can###O you###O reduce###B-action its###B-refer lightness###B-attribute to###O 30###B-value ?###O|affirm
+yes###O|affirm
+no###O|negate
+can###O you###O reduce###B-action the###O lightness###B-attribute of###O the###B-refer same###I-refer image###I-refer ?###O|inform
+make###B-action it###O 80###B-value .###O|inform
+make###B-action the###O saturation###B-attribute level###O of###O the###B-refer previous###I-refer image###I-refer -20###B-value .###O|inform
+70###B-value|inform
+yes###O|affirm
+100###B-value|inform
+yes###O|affirm
+could###O you###O increase###B-action the###O brightness###B-attribute ?###O|inform
+80###B-value|inform
+the###B-refer elephant###I-refer on###I-refer the###I-refer left###I-refer|inform
+brightness###B-attribute|inform
+saturation###B-attribute|inform
+hue###B-attribute|inform
+yes###O|affirm
+nice###O|inform
+the###B-refer elephant###I-refer on###I-refer the###I-refer right###I-refer|inform
+the###B-refer elephant###I-refer in###I-refer the###I-refer middle###I-refer|inform
+yes###O|affirm
+the###B-refer parking###I-refer meter###I-refer|inform
+50###B-value|inform
+no###O|negate
+can###O you###O make###B-action the###B-refer yellow###I-refer poles###I-refer less###O bright###O ?###O|inform
+can###O you###O make###B-action the###B-refer image###I-refer brighter###O ?###O|inform
+brightness###B-attribute|inform
+brightness###B-attribute|inform
+make###B-action the###B-refer car###I-refer less###O bright###B-attribute|inform
+-50###B-value|inform
+it###O is###O not###O .###O|negate
+no###O|negate
+yellow###B-refer pole###I-refer|inform
+no###O|negate
+yes###O|affirm
+30###B-value|inform
+the###B-refer chicken###I-refer|inform
+yes###O|affirm
+the###B-refer chicken###I-refer|inform
+saturation###B-attribute|inform
+lightness###B-attribute|inform
+yes###O|affirm
+chicken###B-refer|inform
+grass###B-refer|inform
+-20###B-value|inform
+yes###O|affirm
+6###B-value|inform
+brightness###B-attribute|inform
+the###B-refer grass###I-refer|inform
+no###O|negate
+brighten###B-action up###O the###B-refer chicken###I-refer|inform
+no###O|negate
+the###B-refer leaves###I-refer|inform
+yes###O|affirm
+adjust###B-action brighness###B-attribute 10###B-value on###O the###B-refer train###I-refer|inform
+the###B-refer man###I-refer|inform
+no###O|negate
+no###O|negate
+no###O|negate
+no###O|negate
+change###B-action hue###B-attribute to###O 25###B-value|inform
+the###B-refer whole###I-refer picture###I-refer|inform
+the###B-refer sky###I-refer|inform
+the###B-refer train###I-refer|inform
+yes###O|affirm
+no###O|negate
+adjust###B-action saturation###B-attribute on###O the###B-refer train###I-refer to###O 30###B-value|inform
+adjust###B-action brightness###B-attribute to###O 45###B-value on###O the###B-refer man###I-refer|inform
+yes###O|affirm
+the###B-refer ground###I-refer|inform
+trains###B-refer|inform
+adjust###B-action brightness###B-attribute to###O 10###B-value|inform
+no###O|negate
+100###B-value|inform
+yes###O|affirm
+yes###O|affirm
+yes###O|affirm
+change###B-action the###B-refer goat###I-refer 's###I-refer contrast###B-attribute|inform
+change###B-action the###B-refer baby###I-refer goat###I-refer 's###I-refer hue###B-attribute|inform
+make###B-action the###B-refer rock###I-refer 's###O brightness###B-attribute higher###O|inform
+change###B-action the###B-refer rock###I-refer 's###O lightness###B-attribute|inform
+no###O|negate
+make###B-action the###B-refer goat###I-refer 's###I-refer brightness###B-attribute higher###O|inform
+40###B-value|inform
+100###B-value|inform
+it###O is###O vegtables###B-refer in###I-refer a###I-refer pot###I-refer|inform
+yes###O|affirm
+adjust###B-action the###O saturation###B-attribute|inform
+adjust###B-action contrast###B-attribute|inform
++50###B-value|inform
+it###O is###O chopped###B-refer vegtables###I-refer|inform
+there###O is###O a###O wood###B-refer spoon###I-refer in###I-refer the###I-refer pot###I-refer also###O|inform
+no###O|negate
+yes###O|affirm
++70###B-value|inform
+contrast###B-attribute|inform
+yes###O|affirm
+no###O|negate
+50###B-value|inform
+edit###B-action the###B-refer lights###I-refer .###O|inform
+red###O|inform
+50###B-value|inform
+edit###B-action building###B-refer|inform
+light###B-refer|inform
+edit###B-action it###O .###O|inform
+yes###O|affirm
+yes###O|affirm
+edit###B-action sky###B-refer|inform
+edit###B-action lights###B-refer|inform
+edit###B-action street###B-refer lights###I-refer|inform
+edit###B-action sign###B-refer|inform
+edit###B-action the###B-refer light###I-refer|inform
+edit###B-action street###B-refer|inform
+edit###B-action light###B-refer|inform
+brightness###B-attribute|inform
+no###O|negate
+select###B-action sail###B-refer|inform
+yes###O|affirm
+hue###B-attribute|inform
+30###B-value|inform
+select###B-action sailboat###B-refer|inform
+yes###O|affirm
+lightness###B-attribute|inform
+lighten###B-action sailboat###B-refer .###O|inform
+-50###B-value|inform
+-80###B-value|inform
+the###B-refer woman###I-refer|inform
+the###B-refer painting###I-refer|inform
+yes###O|affirm
+yes###O|affirm
+laptop###B-refer|inform
+hue###B-attribute|inform
+hi###O|inform
+yes###O|affirm
+the###B-refer laptop###I-refer|inform
+lightness###B-attribute|inform
+the###B-refer woman###I-refer|inform
+computer###B-refer|inform
+no###O|negate
+0###B-value|inform
+no###O|negate
+make###B-action her###B-refer sweater###I-refer ligher###O|inform
+25###B-value|inform
+good###O|affirm
+the###B-refer sky###I-refer|inform
+yes###O|affirm
+brightness###B-attribute|inform
+great###O|affirm
+sky###B-refer|inform
+brightness###B-attribute|inform
+no###O|negate
+yes###O|affirm
+the###B-refer right###I-refer bus###I-refer|inform
+edit###B-action the###B-refer bus###I-refer|inform
+20###B-value|inform
+yes###O it###O 's###O a###B-refer bike###I-refer|affirm
+25###B-value|inform
+-25###B-value|inform
+motorcycle###B-refer|inform
+yes###O|affirm
+how###O are###O you###O ?###O|inform
+increase###B-action contrast###B-attribute|inform
+yes###O|affirm
+yes###O|affirm
+lightness###B-attribute|inform
+yes###O|affirm
+yes###O|affirm
+no###O|negate
+20###B-value|inform
+duck###B-refer|inform
+contract###O|inform
+edit###B-action contrast###B-attribute|inform
+duck###B-refer|inform
+the###B-refer ducks###I-refer|inform
+30###B-value|inform
+brightness###B-attribute|inform
+yes###O|affirm
+edit###B-action this###B-refer image###I-refer|inform
+water###B-refer|inform
+fully###O|inform
+0###B-value|inform
+dog###B-refer|inform
+50###B-value|inform
+lower###B-action brightness###B-attribute|inform
+brown###B-refer dog###I-refer|inform
+yes###O|affirm
+yes###O|affirm
+brightness###B-attribute|inform
+lower###B-action brightness###B-attribute|inform
+no###O|negate
+no###O|negate
+green###B-refer couch###I-refer|inform
+brown###B-refer dog###I-refer|inform
+brown###B-refer dog###I-refer|inform
+dog###B-refer|inform
+turn###B-action down###O brightness###B-attribute|inform
+yes###O|affirm
+lightness###B-attribute|inform
+done###O|inform
+3###B-value|inform
+5###B-value|inform
+yes###O|affirm
+yes###O|affirm
+saturation###B-attribute|inform
+thats###O correct###O|affirm
+-3###B-value|inform
+great###O job###O|affirm
+decrease###B-action the###O contrast###B-attribute of###O the###B-refer man###I-refer on###I-refer the###I-refer left###I-refer|inform
+no###O|negate
+yes###O|affirm
+yes###O|affirm
+yes###O|affirm
+increase###B-action the###O saturation###B-attribute on###O the###B-refer horse###I-refer on###I-refer the###I-refer right###I-refer by###O 40###B-value|inform
+increase###B-action the###O saturation###B-attribute on###O the###B-refer horse###I-refer on###I-refer the###I-refer left###I-refer by###O 20###B-value|inform
+decrease###B-action the###O lightness###B-attribute of###O the###B-refer image###I-refer by###O -10###B-value|inform
+decrease###B-action the###O contrast###B-attribute by###O -30###B-value on###O the###B-refer man###I-refer on###I-refer the###I-refer right###I-refer|inform
+yes###O|affirm
+-30###B-value|inform
+75###B-value|inform
+increase###B-action brightness###B-attribute of###O the###B-refer background###I-refer|inform
+no###O|negate
+yes###O|affirm
+increase###B-action brightness###B-attribute of###O photo###B-refer|inform
+65###B-value|inform
+yes###O|affirm
+increase###B-action brightness###B-attribute|inform
+background###B-refer|inform
+increase###B-action brightness###B-attribute of###O bicycle###B-refer|inform
+contrast###B-attribute|inform
+unicycle###B-refer|inform
+-100###B-value|inform
+the###B-refer unicycle###I-refer|inform
+a###B-refer orange###I-refer|inform
+the###B-refer orange###I-refer|inform
+hue###B-attribute|inform
+no###O|negate
+the###B-refer cycle###I-refer|inform
+no###O|negate
+unicycle###B-refer|inform
+yes###O|affirm
+-100###B-value|inform
+the###B-refer plant###I-refer|inform
+yes###O|affirm
+the###B-refer unicycle###I-refer|inform
+no###O|negate
+the###B-refer aeroplane###I-refer ,###O brightness###B-attribute +50###B-value|inform
+an###B-refer aeroplane###I-refer|inform
+yes###O|affirm
+85###B-value|inform
+yes###O|affirm
+yes###O|affirm
+the###B-refer aeroplane###I-refer|inform
+brightness###B-attribute|inform
+the###B-refer aroplane###I-refer ,###O ,###O brightness###B-attribute -20###B-value|inform
+yes###O|affirm
+the###B-refer aeroplane###I-refer ,###O ,###O ,###O brightness###B-attribute -60###B-value|inform
+bag###B-refer|inform
+edit###B-action saturation###B-attribute .###O|inform
+yes###O .###O|affirm
+yes###O|affirm
+pouch###B-refer|inform
+yes###O|affirm
+there###O is###O clothing###B-refer in###O the###O image###O .###O|inform
+30###B-value|inform
+brightness###B-attribute|inform
+the###B-refer tie###I-refer|inform
+20###B-value|inform
+make###B-action the###B-refer toothpaste###I-refer have###O more###O contrast###B-attribute .###O|inform
+tooth###B-refer brush###I-refer|inform
+no###O|negate
+50###B-value|inform
+yes###O|affirm
+50###B-value|inform
+make###B-action the###B-refer toothbrush###I-refer darker###O .###O|inform
+yes###O|affirm
+no###O|negate
+how###O many###O toothbrushes###B-refer are###O in###O the###O image###O ?###O|inform
+brightness###B-attribute|inform
+no###O|negate
+make###B-action the###B-refer toothpaste###I-refer brighter###O .###O|inform
+sandwich###B-refer|inform
+yes###O|affirm
+change###B-action man###B-refer to###O saturation###B-attribute -20###B-value|inform
+no###O|negate
+hi###O !###O can###O you###O change###B-action the###O contrast###B-attribute to###O -50###B-value on###O the###B-refer sandwich###I-refer ?###O|inform
+man###B-refer|inform
+yes###O|affirm
+man###B-refer|inform
+man###B-refer hue###B-attribute +50###B-value|inform
+yes###O|affirm
+bread###B-refer|inform
+no###O|negate
+contrats###B-attribute|inform
+40###B-value|inform
+the###B-refer cats###I-refer|inform
+yes###O|affirm
+ys###O|affirm
+yes###O|affirm
+30###B-value|inform
+contrast###B-attribute|inform
+what###O is###O in###O the###B-refer images###I-refer ?###O|inform
+cats###B-refer|inform
+lightness###B-attribute|inform
+lightly###O|inform
+yes###O|affirm
+yes###O|affirm
+get###B-action bright###B-attribute|inform
+bottom###B-refer one###I-refer|inform
+just###O saturate###B-action|inform
+just###O increase###B-action brightness###B-attribute|inform
+-25###B-value|inform
+50###B-value|inform
+yes###O|affirm
+brightness###B-attribute|inform
+70###B-value|inform
+70###B-value|inform
+edit###B-action right###B-refer horse###I-refer|inform
+delete###B-action|inform
+thanks###O|affirm
+saturation###B-attribute|inform
+yes###O|affirm
+saturation###B-attribute|inform
+yes###O|affirm
+can###O you###O crop###B-action out###O the###B-refer left###I-refer horse###I-refer|inform

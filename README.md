@@ -20,6 +20,8 @@ pip install -r requirements.txt
 sh run.sh 
 ```
 
+***Note*** model trained in ```imadial-nlu``` may not have same results as the model in our paper
+
 #### MattNet
 
 cd into ```imadial-mattnet```, and follow installation instructions in the ```imadial-mattnet/README.md```.  I forked the original MattNet repo and added a flask server script.  (To be honest, installing MattNet was ~~a pain in the ass~~ not straight forward for me.)

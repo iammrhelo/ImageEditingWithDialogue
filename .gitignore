@@ -1,5 +1,7 @@
 __MACOSX
 activate.sh
+*.bin
+*.pt
 
 __pycache__
 .vscode
