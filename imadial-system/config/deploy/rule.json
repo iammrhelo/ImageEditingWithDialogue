@@ -1,0 +1,34 @@
+{
+    "image_dir": "/Users/iammrhelo/Research/Dialogue/IE-System/config/deploy/deploy_images",
+    "agents": {
+        "visionengine": {
+            "visionengine": "MAttNetClient",
+            "uri": "http://128.2.204.98:6000/detect",
+            "database_path": null
+        },
+        "system": {
+            "nlu": {
+                "nlu": "NLIETagger",
+                "client": true,
+                "uri": "http://128.2.204.98:5000/nlu"
+            },
+            "manager": {
+                "state": {
+                    "ontology": "./config/ontology/adjust.json"
+                },
+                "policy": {
+                    "name": "RulePolicy",
+                    "action": {
+                        "request": ["attribute", "adjust_value", "object", "intent"],
+                        "confirm": ["attribute", "adjust_value", "object", "intent", "object_mask_str"],
+                        "query": ["object"],
+                        "execute": ["adjust"]
+                    }
+                }
+            }
+        },
+        "imageeditengine": {
+            "imageeditengine": "SimpleImageEditEngine"
+        }
+    }
+}

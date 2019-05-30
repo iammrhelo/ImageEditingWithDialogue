@@ -1,0 +1,3 @@
+[submodule "imadial-mattnet"]
+	path = imadial-mattnet
+	url = https://github.com/iammrhelo/MAttNet.git
