@@ -24,6 +24,11 @@ sh run.sh
 
 #### MattNet
 
+First, pull the submodule 
+```bash
+git submodule update --init --recursive
+```
+
 cd into ```imadial-mattnet```, and follow installation instructions in the ```imadial-mattnet/README.md```.  I forked the original MattNet repo and added a flask server script.  (To be honest, installing MattNet was ~~a pain in the ass~~ not straight forward for me.)
 
 ```bash
