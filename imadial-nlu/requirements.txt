@@ -2,3 +2,4 @@ flask
 nltk 
 torch 
 numpy 
+tdqm

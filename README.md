@@ -24,6 +24,11 @@ sh run.sh
 
 #### MattNet
 
+#### Updates on 2020-02-21
+I strongly recommend **NOT** to use MattNet, but look for other open-source implementations, as MattNet requires an older version of PyTorch (0.2.0) and Cuda (0.8.0), while the code base has multiple layers of submodules, which is difficult to install.
+
+
+
 cd into ```imadial-mattnet```, and follow installation instructions in the ```imadial-mattnet/README.md```.  I forked the original MattNet repo and added a flask server script.  (To be honest, installing MattNet was ~~a pain in the ass~~ not straight forward for me.)
 
 ```bash
