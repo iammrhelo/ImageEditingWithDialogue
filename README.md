@@ -1,6 +1,24 @@
+# Updates on 2020-02-21
+
+This repo contains code/data of our paper [Adjusting Image Attributes of Localized Regions with Low-level Dialogue](https://arxiv.org/abs/2002.04678).  If you find our paper useful, here's the bibtex
+```
+@article{lin2020adjusting,
+  title={Adjusting Image Attributes of Localized Regions with Low-level Dialogue},
+  author={Lin, Tzu-Hsiang and Rudnicky, Alexander and Bui, Trung and Kim, Doo Soon and Oh, Jean},
+  journal={arXiv preprint arXiv:2002.04678},
+  year={2020}
+}
+```
+
+The 2 datasets published along with our paper are at the following locations
+- 2.5k Image Edit Requests (tagged): `imadial-nlu/data`
+- Visualizations of 83 Dialogues from our user study: `./vis`
+
+If you aim to setup the system, I strongly recommend **NOT** to use MattNet, but look for other open-source implementations, as MattNet requires an older version of PyTorch (0.2.0) and Cuda (0.8.0), while the code base has multiple layers of submodules, which is extremely difficult to install (for me).  I was unable to prepare the 83 dialogues as a dataset because of this (sigh).
+
 # ImageEditingWithDialogue
 
-This repository contains code and data of ImaDial -- the system used in our [paper](), and contains 3 separate repos ```./imadial-nlu```, ```./imadial-system```, ```./imadial-mattnet```. 
+This repository contains code and data of ImaDial -- the system used in our [paper](https://arxiv.org/abs/2002.04678), and contains 3 separate repos ```./imadial-nlu```, ```./imadial-system```, ```./imadial-mattnet```. 
 
 ### Setup
 
@@ -23,11 +41,6 @@ sh run.sh
 ***Note*** model trained in ```imadial-nlu``` may not have same results as the model in our paper
 
 #### MattNet
-
-#### Updates on 2020-02-21
-I strongly recommend **NOT** to use MattNet, but look for other open-source implementations, as MattNet requires an older version of PyTorch (0.2.0) and Cuda (0.8.0), while the code base has multiple layers of submodules, which is difficult to install.
-
-
 
 cd into ```imadial-mattnet```, and follow installation instructions in the ```imadial-mattnet/README.md```.  I forked the original MattNet repo and added a flask server script.  (To be honest, installing MattNet was ~~a pain in the ass~~ not straight forward for me.)
 
